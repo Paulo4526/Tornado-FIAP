@@ -1,0 +1,5 @@
+# Created at 2024-05-27T21:56:33.532
+Boot Manifest-JAR contains absolute paths in classpath 'D:\FIAP 2024\FASE3\MicroServiços\Tornado Projeto FIAP\usuario\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
