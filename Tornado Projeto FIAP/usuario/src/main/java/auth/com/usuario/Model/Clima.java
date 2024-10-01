@@ -24,7 +24,7 @@ public class Clima {
     private Long id;
 
     @Column(name = "id_tornado")
-    private Long idTornados;
+    private Long idTornado;
 
     @Column(name = "ds_clima")
     private String clima;
